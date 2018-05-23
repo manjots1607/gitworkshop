@@ -1,2 +1,3 @@
 first line
 Second thing 
+Adding new feature
